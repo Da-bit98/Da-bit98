@@ -1,9 +1,5 @@
 <div align="center">
-<h1 align="center"> Hola, soy David!</h1>
-
-
-//## Hola, soy David! 👋
-
+<h1 align="center"> Hi! I'm David! 👋</h1>
 
 <!--
 **Da-bit98/Da-bit98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
