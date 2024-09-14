@@ -2,7 +2,7 @@
 <h1 align="center"> Hi! I'm David! 👋</h1>
 
 ![Texto alternativo](images/Gallery.png)
-
+![Da-bit98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-bit98&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **Da-bit98/Da-bit98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
