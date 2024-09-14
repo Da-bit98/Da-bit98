@@ -1,6 +1,8 @@
 <div align="center">
 <h1 align="center"> Hi! I'm David! 👋</h1>
 
+![Texto alternativo](images/Gallery.png)
+
 <!--
 **Da-bit98/Da-bit98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
